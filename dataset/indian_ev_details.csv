@@ -1,0 +1,144 @@
+Vehicle full name,Manufacturing,Model,Top speed (km/hr),Price (INR),Fuel Type,Wheelers type,Battery capacity [kWh],Full charging time (HR),Range (km/hr),Fast Charging, Number of Seats,Type of brakes,Type of Vehicle
+Revolt RV400,Revolt Motors,RV400,85,134000,Electric,Two Wheeler,4,4.5,150,YES,2,Disc,Motor cycles
+Revolt RV300,Revolt Motors,RV300,65,94999,Electric,Two Wheeler,2.7,4.2,180,YES,2,Disc,Motor cycles
+Tork Motors(Kratos ),Tork Motors,Kratos,100,192499,Electric,Two Wheeler,4,5,180,NO,2,Disc,Motor cycles
+Tork Motors(Kratos R),Tork Motors,Kratos R,105,207499,Electric,Two Wheeler,4,5,180,YES,2,Disc,Motor cycles
+Oben Rorr,Kabira Mobility,Oben Rorr,100,102999,Electric,Two Wheeler,4.4,2,200,YES,2,Disc,Motor cycles
+Kabira Mobility KM 3000,Kabira Mobility,KM 3000,120,127000,Electric,Two Wheeler,4,6.5,120,YES,2,Disc,Motor cycles
+Kabira Mobility KM 4000,Kabira Mobility KM 4000,KM 4000,150,137000,Electric,Two Wheeler,4.4,6.5,150,YES,2,Disc,Motor cycles
+SVM Prana Elite,SVM Prana, Elite,123,300000,Electric,Two Wheeler,7.2,6.5,225,YES,2,Disc,Motor cycles
+SVM Prana Grand,SVM Prana, Grand,123,225000,Electric,Two Wheeler,4.32,4.5,126,YES,2,Disc,Motor cycles
+Earth Energy EV Evolve R,Earth Energy , EV Evolve R,110,142000,Electric,Two Wheeler,1.38,2.5,100,YES,2,Disc,Motor cycles
+Earth Energy EV Glyde Plus, Earth Energy, EV Glyde Plus,90,95000,Electric,Two Wheeler,0.6,,100,YES,2,Disc,Motor cycles
+Ultraviolette F77,Ultraviolette Automotive,F77,140,350000,Electric,Two Wheeler,4.2,5,150,YES,2,Disc,Motor cycles
+Emflux Emflux One,Emflux Motors,Emflux One,200,550000,Electric,Two Wheeler,9.7,3,200,YES,2,Disc,Motor cycles
+Ather 450X,Ather Energy,Ather 450X,80,140000,Electric,Two Wheeler,2.9,5.45,116,YES,2,Disc,Scooters
+Ather 450,Ather Energy,Ather 450,80,135000,Electric,Two Wheeler,2.4,4.18,70,YES,2,Disc,Scooters
+Bajaj Chetak,Bajaj ,Bajaj Chetak,63,148000,Electric,Two Wheeler,2.5,5,95,YES,2,Disc,Scooters
+Simple One Extra Range,Simple Energy,ESimple One Extra Range,105,109000,Electric,Two Wheeler,6.4,5,300,YES,2,Disc,Scooters
+Simple One STD,Simple Energy,Simple One STD,105,144999,Electric,Two Wheeler,4.8,1.5,236,YES,2,Disc,Scooters
+Simple Energy Mark 2,Simple Energy,Mark 2,100,102000,Electric,Two Wheeler,4.8,1,260,YES,2,Disc,Scooters
+Hero Electric Photon,Hero Electric, Photon ,45,80790,Electric,Two Wheeler,1.44,5,108,YES,2,Disc,Scooters
+Hero Electric Optima,Hero Electric,Optima,25,52000,Electric,Two Wheeler,1.87,5,50,YES,2,Disc,Scooters
+Okinawa Praise,Okinawa Praise,pro,58,80615,Electric,Two Wheeler,3.3,5,88,No,2,Disc,Scooters
+Yakuza Rubie 60V,Yakuza Rubie,RUBIE 60V,25,45000,Electric,Two Wheeler,1.5,8,50,YES,2,Disc,Scooters
+Lectrix E 1,Lactrix Motors,Lectrix E 1,25,50000,Electric,Two Wheeler,1.5,5,70,YES,2,Disc,Scooters
+Evolet Pony EZ,Evolet Pony,Pony EZ,25,41197,Electric,Two Wheeler,1.15,9,60,YES,2,Disc,Scooters
+Pony Classic,Evolet Pony,Pony Classic,25,51197,Electric,Two Wheeler,1.15,6,65,YES,2,Disc,Scooters
+EeVe Xeniaa,Omjay Eeve, Xeniaa STD,25,79999,Electric,Two Wheeler,2.5,4,80,YES,2,Disc,Scooters
+EeVe Xeniaa,Omjay Eeve, Xeniaa 2.0,25,86999,Electric,Two Wheeler,1.2,4,80,YES,2,Disc,Scooters
+BattRE Electric LoEV,Battre loev, LoEV,43,59900,Electric,Two Wheeler,1.44,2.5,60,YES,2,Disc,Scooters
+BattRE Electric gps,BattRE Electric, gps,50,64990,Electric,Two Wheeler,2,2.5,110,YES,2,Disc,Scooters
+PURE EV Epluto 7G,PURE EV ,Epluto 7G,60,92999,Electric,Two Wheeler,2.5,4,120,YES,2,Disc,Scooters
+Ampere V48,Ampere,V48,25,38000,Electric,Two Wheeler,1.29,10,50,YES,2,Disc,Scooters
+Ampere REO,Ampere,REO,25,49579,Electric,Two Wheeler,0.96,6,60,YES,2,Disc,Scooters
+Ola S1 pro,Ola, S1 pro,115,124000,Electric,Two Wheeler,3.97,6.5,181,YES,2,Disc,Scooters
+Ola S1,Ola,s1,90,94999,Electric,Two Wheeler,2.98,5,121,YES,2,Disc,Scooters
+TVS iQube Electric,TVS, iQube Electric,78,165000,Electric,Two Wheeler,4.56,4,145,YES,2,Disc,Scooters
+Amo Mobility S-Pin,Amo Mobility, S-Pin,25,43606,Electric,Two Wheeler,2,6,75,YES,2,Disc,Scooters
+Andaaz ,Lectrix EV,Andaaz,25,135000,Electric,Three Wheeler,2,8,80,YES,4,,Rickshaws
+Gatti E-rickshaw,Entice Impex, Gatti LX,25,90000,Electric,Three Wheeler,1.68,8,80,YES,6,,Rickshaws
+COMFORT DLX,Lohia,COMFORT DLX,25,155000,Electric,Three Wheeler,1.2,8,100,YES,4, Hydraulic  ,Rickshaws
+Mahindra Treo,Mahindra ,Treo,55,187000,Electric,Three Wheeler,7.37,4,141,YES,4, Hydraulic  ,Cargo three Wheeler
+Kerala Neem G,Kerala Automobiles, Neem G,45,285000,Electric,Three Wheeler,1.08,4,90,YES,4,,Rickshaws
+Omega Seiki Mobility RAGE,Omega Seiki Mobility,RAGE,45,340000,Electric,Three Wheeler,10.8,5,128,YES,2,,Cargo three Wheeler
+Ele 1000 E,Ele , 1000 E,55,66950,Electric,Four Wheeler,0.96,8,80,YES,4,,Cars
+Tata Nexon EV,Tata,Dark XZ Plus LUX ,120,1740000,Electric,Four Wheeler,30.2,8.5,312,YES,5,Disc,Cars
+Tata Tigor EV,Tata,XZ Plus Dual Tone ,120,700000,Electric,Four Wheeler,,,732,YES,5,,Cars
+MG ZS EV,MG ZS,Exclusive ,140,2588000,Electric,Four Wheeler,50.3,1,461,YES,5,,Cars
+Hyundai Kona Electric,Hyundai, Kona Electric,167,2398000,Electric,Four Wheeler,39.2,6.1,452,YES,5,,Cars
+Jaguar I-Pace,Jaguar,I-Pace,500,11200000,Electric,Four Wheeler,90,8.5,470,YES,5,,Cars
+Audi E-Tron GT,Audi ,Quattro ,245,18000000,Electric,Four Wheeler,93.4,6,388,YES,5,,Cars
+BYD E6,E6, E6,140,2915000,Electric,Four Wheeler,71.7,1.6,520,YES,5,,Cars
+Mercedes-Benz EQC,Mercedes-Benz, EQC,180,10000000,Electric,Four Wheeler,80,41,383,YES,5,,Cars
+BMW iX,BMW ,iX,200,11600000,Electric,Four Wheeler,105,1,400,YES,5,,Cars
+Hyundai Kona,Hyundai, Kona,167,2384000,electric,four Wheeler,39.2,6.1,452,YES,5,disc (front + rear),Cars
+Mahindra e-Verito,Mahindra, e-Verito,86,913000,electric,four Wheeler,10,11.3,110,YES,5,disc (front) + drum (rear),Cars
+ Mahindra e2o,Mahindra,e2o,80,748000,electric,four Wheeler,15,7.2,140,YES,4,disc (front) + drum (rear),Cars
+Tata X-press T,Tata,X-press T,80,1230000,electric,four Wheeler,21.5,11,213,YES,5,disc (front) + drum (rear),Cars
+Tata Tigor ev,Tata,Tigor ev,120,1200000,electric,four Wheeler,26,8.45,306,YES,5,disc (front) + drum (rear),Cars
+Tata Nexon EV 2020,Tata, Nexon EV 2020,140,1670000,electric,four Wheeler,40.5,8.45,312,YES,5,disc (front + rear),Cars
+Mercedes Benz EQC,Mercedes Benz,EQC,180,9951000,electric,four Wheeler,80,42,370,YES,5,disc (front + rear),Cars
+Extinction MK1 by Pravaig Dynamics,Pravaig Dynamics,Extinction MK1,196,3500000,electric,four Wheeler,96,,504,YES,5,,Cars
+Morris Garages ZS EV,MG,ZS EV,140,2590000,electric,four Wheeler,50.3,19,461,YES,5,disc (front + rear),Cars
+Toyota Prius,Toyota,Prius,112,4543000,Hybrid,four Wheeler,8.8,14,26.3,YES,5,disc (front + rear),Cars
+ Honda Accord,Honda,Accord,47,4428000,Hybrid,four Wheeler,8.1,,340,YES,5,disc (front + rear),Cars
+Toyota Camry,Toyota,Camry,23,4107000,Hybrid,four Wheeler,1.6,,1140,YES,5,disc (front + rear),Cars
+MG Hector,MG ,Hector,195,2011000,Hybrid,four Wheeler,50.3,,858,YES,5,disc (front + rear),Cars
+ Maruti Suzuki Ciaz,Maruti Suzuki, Ciaz,190,1109000,Hybrid,four Wheeler,36,,20.28,YES,5,disc (front + rear),Cars
+Maruti Suzuki Swift,Maruti Suzuki,Swift,165,1000000,Hybrid,four Wheeler,10,,48,YES,5,disc (front + rear),Cars
+Maruti Suzuki Ertiga,Maruti Suzuki,Ertiga,170,957000,Hybrid,four Wheeler,36,,1566,YES,7,disc (front + rear),Cars
+Mahindra Scorpio Intelli,Mahindra,Scorpio Intelli,165,1107000,Hybrid,four Wheeler,NA,,924,YES,7,disc (front + rear),Cars
+Maruti Suzuki Baleno,Maruti Suzuki ,Baleno,180,790000,Hybrid,four Wheeler,25,,23.87,YES,5,disc (front + rear),Cars
+Toyota Glanza,Toyota ,Glanza,180,857000,Hybrid,four Wheeler,40.5,,23.87,YES,5,disc (front + rear),Cars
+Volvo XC90 T8 Excellence,Volvo,XC90 T8 Excellence,230,8090000,Hybrid,four Wheeler,11.6,,37,YES,7,disc (front + rear),Cars
+BMW i8,BMW,i8,120,26500000,Hybrid,four Wheeler,11.6,2.3,47.45,YES,4,disc (front + rear),Cars
+Audi e-tron 55 quattro,Audi,e-tron 55 quattro,200,11700000,Electric,four Wheeler,95,9.15,438,YES,5,disc (front + rear),Cars
+Audi e-tron 50 quattro,Audi,e-tron 50 quattro,190,19000000,Electric,four Wheeler,71,10,340,YES,5,disc (front + rear),Cars
+Audi e-tron S quattro,Audi,e-tron S quattro,210,11900000,Electric,four Wheeler,95,8.3,364,YES,5,disc (front + rear),Cars
+Audi e-tron Sportback 50 quattro,Audi,e-tron Sportback 50 quattro,190,9999000,Electric,four Wheeler,71,7,346,YES,5,disc (front + rear),Cars
+Audi e-tron Sportback 55 quattro,Audi,e-tron Sportback 55 quattro,200,12800000,Electric,four Wheeler,95,8,484,YES,5,disc (front + rear),Cars
+Audi e-tron Sportback S quattro,Audi,e-tron Sportback S quattro,210,11900000,Electric,four Wheeler,95,9,369,YES,5,disc (front + rear),Cars
+BMW i3,BMW,i3,160,10000000,Electric,four Wheeler,42.2,,359,YES,4,disc (front + rear),Cars
+BMW i4,BMW,i4,190,6990000,Electric,four Wheeler,83.9,8.3,590,NO,5,disc (front + rear),Cars
+BMW i5,BMW,i5,162,,Electric,four Wheeler,44.2,,590,YES,6,disc (front + rear),Cars
+Citroën ë-C4,Citroen,e-C4,150,,Electric,four Wheeler,50,7.15,350,YES,5,disc (front + rear),Cars
+Honda e:HEV,Honda,e:HEV,145,1949900,Hybrid,four Wheeler,35.5,,222,YES,5,disc (front + rear),Cars
+Honda e Advance,Honda,e Advance,145,,Electric,four Wheeler,35.5,,222,YES,5,disc (front + rear),Cars
+Hyundai Ioniq electric,Hyundai,Ioniq electric,165,3000000,Electric,four Wheeler,38.3,10,311,YES,5,disc (front + rear),Cars
+Jaguar I-Pace,Jaguar,I-Pace,200,11200000,Electric,four Wheeler,90,,470,YES,5,disc (front + rear),Cars
+Kia e-Niro 39.2kWh,Kia,e-Niro 39.2kWh,170,2800000,Electric,four Wheeler,39.2,,289,YES,5,disc (front + rear),Cars
+Kia e-Niro 64kWh,Kia,e-Niro 64kWh,170,3200000,Electric,four Wheeler,64,,455,YES,5,disc (front + rear),Cars
+Kia e-Soul 39.2kWh,Kia,e-Soul 39.2kWh,157,2200000,Electric,four Wheeler,39.2,6.3,276,YES,5,disc (front + rear),Cars
+Kia e-Soul 64kWh,Kia,e-Soul 64kWh,167,1000000,Electric,four Wheeler,64,10.3,452,YES,5,disc (front + rear),Cars
+Mini Cooper SE,MIni,Cooper SE,150,4870000,Electric,four Wheeler,28.9,3.3,234,YES,5,disc (front + rear),Cars
+Nissan Leaf,Nissan,Leaf,144,,Electric,four Wheeler,40,,270,YES,5,disc (front + rear),Cars
+Nissan Leaf e+,Nissan,Leaf e+,157,,Electric,four Wheeler,62,,385,YES,5,disc (front + rear),Cars
+Opel Corsa-e,Opel,Corsa-e,150,2168320,Electric,four Wheeler,50,7.15,337,NO,5,disc (front + rear),Cars
+Opel Mokka-e,Opel,Mokka-e,150,,Electric,four Wheeler,50,,324,YES,5,disc (front + rear),Cars
+Peugeot e-208,Peugeot,e-208,150,1293600,Electric,four Wheeler,50,7.3,340,YES,5,disc (front + rear),Cars
+Peugeot e-2008,Peugeot,e-2008,150,1500000,Electric,four Wheeler,50,7.15,320,YES,5,disc (front + rear),Cars
+Porsche Taycan 4S (Performance),Porsche,Taycan 4S (Performance),250,16400000,Electric,four Wheeler,79.2,13.3,407,YES,5,disc (front + rear),Cars
+Porsche Taycan 4S (Performance Plus),Porsche,Taycan 4S (Performance Plus),250,16400000,Electric,four Wheeler,93.4,13.3,463,YES,4,disc (front + rear),Cars
+Porsche Taycan Turbo,Porsche,Taycan Turbo,260,23000000,Electric,four Wheeler,93.4,13.3,450,YES,5,disc (front + rear),Cars
+Porsche Taycan Turbo S,Porsche,Taycan Turbo S,260,23000000,Electric,four Wheeler,93.4,13.3,412,YES,5,disc (front + rear),Cars
+Renault Zoe R110,Renault,Zoe R110,135,800000,Electric,four Wheeler,52,3,395,YES,5,disc (front + rear),Cars
+Renault Zoe R135,Renault,Zoe R135,140,,Electric,four Wheeler,52,,395,YES,5,disc (front + rear),Cars
+Skoda Citigo-e iV,Skoda, Citigo-e iV,130,1889000,Electric,four Wheeler,36.8,5.3,260,YES,4,disc (front) + drum (rear),Cars
+Smart fortwo EQ,Smart,fortwo EQ,130,1000000,Electric,four Wheeler,17.6,4,154,YES,2,disc (front) + drum (rear),Cars
+Smart forfour EQ,Smart, forfour EQ,130,1000000,Electric,four Wheeler,17.6,4.3,148,YES,4,disc (front) + drum (rear),Cars
+Volkswagen e-up!,Volkswagen, e-up!,130,400000,Electric,four Wheeler,32.3,5.3,258,YES,4,disc (front) + drum (rear),Cars
+Volkswagen ID.3 Pro Performance,Volkswagen,ID.3 Pro Performance,160,2362000,Electric,four Wheeler,58,9.3,425,YES,5,disc (front) + drum (rear),Cars
+Volkswagen ID.3 Pro S,Volkswagen, ID.3 Pro S,160,3521520,Electric,four Wheeler,77,9.3,549,YES,5,disc (front) + drum (rear),Cars
+Volkswagen ID.4 1st,Volkswagen, ID.4 1st,160,4310000,Electric,four Wheeler,77,7.3,500,YES,5,disc (front) + drum (rear),Cars
+Citroën ë-Spacetourer (M),Citroën,ë-Spacetourer (M),130,,Electric,four Wheeler,50,,230,YES,5,disc (front + rear),Cars
+Mercedes-Benz EQV (long),Mercedes-Benz,EQV (long),160,,Electric,four Wheeler,90,,356,YES,5,,Cars
+Nissan e-NV200 evalia,Nissan,e-NV200 evalia,123,,Electric,four Wheeler,40,,200,YES,5,disc (front + rear),Cars
+Audi e-tron GT,Audi,e-tron GT,245,16600000,Electric,Four Wheeler,93.4,5.15,401,NO,5,disc (front + rear),Cars
+Audi RS e-tron GT,Audi,RS e-tron GT,250,18900000,Electric,Four Wheeler,93.4,5.15,481,NO,5,disc (front + rear),Cars
+BMW iX,BMW,iX,200,11600000,Electric,Four Wheeler,76.6,11,425,YES,5,disc (front + rear),Cars
+BYD E6,BYD,E6,130,2915000,Electric,Four Wheeler,71.7,1.3,415,YES,5,disc (front + rear),Cars
+Kia EV6,Kia, EV6,192,12000000,Electric,Four Wheeler,77.4,21,528,NO,5,disc (front + rear),Cars
+MG ZS EV ,MG, ZS EV ,140,2590000,Electric,Four Wheeler,50.3,8,461,YES,5,disc (front + rear),Cars
+MG ZS EV Excite,MG,ZS EV Excite,140,2200000,Electric,Four Wheeler,50.3,19,461,YES,5,disc (front + rear),Cars
+MG ZS EV Exclusive,MG,ZS EV Exclusive,140,2588000,Electric,Four Wheeler,50.3,19,461,YES,5,disc (front + rear),Cars
+Mahindra eKUV100,Mahindra ,eKUV100,120,825000,Electric,Four Wheeler,15.6,5.45,147,YES,5,,Cars
+Tata Nexon EV,Tata,Nexon EV,120,1670000,Electric,Four Wheeler,40.5,8.3,437,NO,5,disc (front) + drum (rear),Cars
+Tata Nexon EV max,Tata,Nexon EV max,140,1774000,Electric,Four Wheeler,40.5,6.3,437,YES,5,disc (front) + drum (rear),Cars
+Tata Nexon EV XM,Tata,Nexon EV XM,120,1430000,Electric,Four Wheeler,30.2,1,312,YES,5,disc (front) + drum (rear),Cars
+Tata Nexon EV XZ plus,Tata,Nexon EV XZ plus,120,1619000,Electric,Four Wheeler,30.2,8,312,YES,5,disc (front) + drum (rear),Cars
+Tata Nexon EV XZ plus LUX,Tata,Nexon EV XZ plus LUX,120,1719000,Electric,Four Wheeler,30.2,8.3,312,YES,5,disc (front) + drum (rear),Cars
+Tata Tigor EV XE,Tata,Tigor EV XE,120,1249000,Electric,Four Wheeler,26,8.45,306,YES,5,disc (front) + drum (rear),Cars
+Toyota Vellfire,Toyota,Vellfire,170,8990000,Hybrid,Four Wheeler,1.6,,951,NO,7,disc (front + rear),Cars
+Tesla Model 3,Tesla,Model 3,261,6000000,Electric,Four Wheeler,50,15,507,YES,5,,Cars
+Ashok Leyland,Ashok Leyland,Ashok Leyland Versa Electric Bus,95,3500000,Electric,Eight Wheeler,300,8,144,Yes,44,disc (front + rear),Bus
+JBM Auto ,JBM Auto Limited ,JBM Ecolife Electric bus ,80,,Electric,Eight Wheeler,,,,Yes,30,disc (front + rear),Bus
+Tata Motors ,Tata Motors,Tata Ultra 9/9m Non AC Electric Bus BS VI Electric,75,2100000,Electric,Eight Wheeler,124,2.5,150,Yes,31,disc (front + rear),Bus
+Tata Motors ,Tata Motors,Tata Urban 9/12m AC Electric Bus BS VI Electric,76,210000,Electric,Eight Wheeler,,3,150,Yes,40,disc (front + rear),Bus
+Tata Motors ,Tata Motors,Starbus Ev: Tata 4/12m Low Entry AC Electric Bus Vi Electric,7,220000,Electric,Eight Wheeler,,3,200,Yes,35,disc (front + rear),Bus
+Tata Motors ,Tata Motors,Starbus Ev: Tata 4/12m Low Floor AC Electric Bus BS Vi Electric,65,220000,Electric,Eight Wheeler,,3,200,Yes,35,disc (front + rear),Bus
+Tata Motors ,Tata Motors,STARBUS EV: Tata 4/12m Low Floor Non AC Electric bus BS VI Electric,65,,Electric,Eight Wheeler,250,3,200,Yes,31,disc (front + rear),Bus
+Tata Motors ,Tata Motors,Tata Ultra 9/9 AC electric Bus,75,16000000,Electric,Eight Wheeler,124,2.5,150,Yes,31,front disc brakes,Bus
+Electric Bus K9 ,Olectra Greentech Limited ,Electric Bus K9 ,70,15000000,Electric,Eight Wheeler,,4.5,300,Yes,39,disc (front + rear),Bus
+SKYPARK Bus ,Deccan Auto Limited  ,SKYPARK Bus ,80,,Electric,Eight Wheeler,,,,Yes,43,disc (front + rear),Bus
+Skyline Pro ,Eicher Motors Limited ,Skyline Pro ,70,,Electric,Eight Wheeler,,,,Yes,35,disc (front + rear),Bus
